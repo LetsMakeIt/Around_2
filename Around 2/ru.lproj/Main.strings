@@ -1,0 +1,54 @@
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "0W2-JW-gWM"; */
+"0W2-JW-gWM.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Major"; ObjectID = "1xB-ZQ-8DL"; */
+"1xB-ZQ-8DL.text" = "Major";
+
+/* Class = "IBUILabel"; text = "Share hashtags to lock screens of anyone around with an active bluetooth"; ObjectID = "6oY-OK-rto"; */
+"6oY-OK-rto.text" = "Отправьте хэштэги на все активные вокруг устройства с включенным Bluetooth";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "8dp-JN-V6N"; */
+"8dp-JN-V6N.text" = "Label";
+
+/* Class = "IBUITextField"; placeholder = "Ваше сообщение  "; ObjectID = "ByQ-Op-77b"; */
+"ByQ-Op-77b.placeholder" = "Ваше сообщение  ";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "O4w-0S-lbd"; */
+"O4w-0S-lbd.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Tjy-0Q-w7a"; */
+"Tjy-0Q-w7a.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Ydd-rF-cZN"; */
+"Ydd-rF-cZN.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Статус маяка"; ObjectID = "ba7-O4-WEp"; */
+"ba7-O4-WEp.text" = "Статус маяка";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "d3d-nE-xmE"; */
+"d3d-nE-xmE.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Around"; ObjectID = "fPI-xg-a2b"; */
+"fPI-xg-a2b.normalTitle" = "Around";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "g7y-uP-UhY"; */
+"g7y-uP-UhY.normalTitle" = "Далее";
+
+/* Class = "IBUILabel"; text = "Статус поиска"; ObjectID = "ijc-53-g31"; */
+"ijc-53-g31.text" = "Статус поиска";
+
+/* Class = "IBUILabel"; text = "#"; ObjectID = "ovJ-wl-Dhf"; */
+"ovJ-wl-Dhf.text" = "#";
+
+/* Class = "IBUILabel"; text = "#nohasharound"; ObjectID = "p4a-oA-wgM"; */
+"p4a-oA-wgM.text" = "#НетТэговВокруг";
+
+/* Class = "IBUILabel"; text = "Minor"; ObjectID = "uQu-sa-RLT"; */
+"uQu-sa-RLT.text" = "Minor";
+
+/* Class = "IBUIBarButtonItem"; title = "Назад"; ObjectID = "yPK-yM-CaD"; */
+"yPK-yM-CaD.title" = "Назад";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "yc5-Sf-85s"; */
+"yc5-Sf-85s.normalTitle" = "Далее";
